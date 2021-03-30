@@ -14,7 +14,7 @@
 	<name>springboot-app</name>
 	<description>Spring Boot Rest API for Employee management</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
